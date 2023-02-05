@@ -1,0 +1,30 @@
+[
+    {
+        "name":"FiresonZ",
+        "id":0,
+        "win":100,
+        "lose":0,
+        "rks":"1011111"
+    },
+    {
+        "name":"Dr",
+        "id":1,
+        "win":50,
+        "lose":50,
+        "rks":"1450"
+    },
+    {
+        "name":"SmallBug",
+        "id":2,
+        "win":60,
+        "lose":70,
+        "rks":"14250"
+    },
+    {
+        "name":"Cat",
+        "id":3,
+        "win":22,
+        "lose":23,
+        "rks":"15682"
+    }
+]
